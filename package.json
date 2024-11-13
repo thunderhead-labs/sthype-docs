@@ -1,0 +1,16 @@
+{
+  "name": "sthype-intergration",
+  "packageManager": "yarn@4.5.1",
+  "scripts": {
+    "build": "rm -rf lib && tsc"
+  },
+  "devDependencies": {
+    "@typechain/ethers-v5": "^10.0.0",
+    "@reown/appkit": "^1.1.2",
+    "@reown/appkit-adapter-wagmi": "^1.1.2",
+    "ethers": "5.7",
+    "typechain": "^8.1.0",
+    "viem": "^2.21.25",
+    "wagmi": "^2.12.17"
+  }
+}
