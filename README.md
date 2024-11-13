@@ -9,9 +9,8 @@ For more detailed information on the `stHYPE` integration, please refer to the [
 
 ### Deployed Contract Addresses
 
-- stHYPE: [0x18b2569896e7a7880b00f82212f2a3d9374f5b0f](https://etherscan.io/address/0x18b2569896e7a7880b00f82212f2a3d9374f5b0f)
-- overseerV1: [0x18b2569896e7a7880b00f82212f2a3d9374f5b0f](https://etherscan.io/address/0x18b2569896e7a7880b00f82212f2a3d9374f5b0f)
-
+- stHYPE: 0x484eE9b28e1F4C102406C86087832D730ec118fE
+- overseerV1: 0x41108a12e10EB8D7d530C9dE48adB7540008696f
 
 ### ABIs
 
