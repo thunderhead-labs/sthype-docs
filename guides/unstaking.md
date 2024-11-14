@@ -1,6 +1,6 @@
+# stHYPE Integration - Staking
 
-
-### Unstake (Burn and Redeem)
+## Unstake (Burn and Redeem)
 
 `overseerV1`
 

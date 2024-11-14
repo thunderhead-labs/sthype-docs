@@ -12,7 +12,7 @@ For more detailed information on the `stHYPE` integration, please refer to the [
 - stHYPE: 0x484eE9b28e1F4C102406C86087832D730ec118fE
 - overseerV1: 0x41108a12e10EB8D7d530C9dE48adB7540008696f
 
-### ABIs
+#### ABIs
 
 ABIs for the smart contracts are available in the [src/abis](src/abis) folder.
 
@@ -26,6 +26,11 @@ A hosted GraphQL playground for indexed data at [https://index-testnet.stakedhyp
 
 Please note this is still under development and the data may not be fully accurate or stable until mainnet launch.
 
+## Community Codes
+
+These will be whitelisted at the smart contract level for approved partners.
+
+These are passed into the staking and unstaking functions in order to track HYPE flow throughout the ecosystem.
 
 ## Additonal Notes
 
@@ -33,3 +38,6 @@ The `stHYPE` protocol is almost complete but some aspects may change before main
 
 This guide will be updated to reflect any changes and partners will be notified of any updates when they occur.
 
+## White label solution
+
+Coming soon

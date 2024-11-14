@@ -1,8 +1,8 @@
 # stHYPE Integration - Staking
 
-## Mint (Staking)
+## Stake (mint)
 
-`overseerV1`
+`overseerV1`s
 
 The `mint` function is used to stake tokens and receive `stHYPE` in return. This function allows users to lock their tokens in the staking contract and mint an equivalent amount of `stHYPE`, which represents their staked position within the protocol. 
 
