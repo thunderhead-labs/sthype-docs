@@ -30,7 +30,7 @@ Please note this is still under development and the data may not be fully accura
 
 These will be whitelisted at the smart contract level for approved partners.
 
-These are passed into the staking and unstaking functions in order to track HYPE flow throughout the ecosystem.
+These are passed as a param to the staking and unstaking functions in order to track HYPE flow and rewards throughout the ecosystem.
 
 ## Additonal Notes
 
