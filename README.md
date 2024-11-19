@@ -9,8 +9,7 @@ For more detailed information on the `stHYPE` integration, please refer to the [
 
 ### Deployed Contract Addresses
 
-- stHYPE: 0x484eE9b28e1F4C102406C86087832D730ec118fE
-- overseerV1: 0x41108a12e10EB8D7d530C9dE48adB7540008696f
+Please see [[https://index-testnet.stakedhype.fi/graphql]([https://docs.stakedhype.fi/technical/contract-addresses]
 
 #### ABIs
 
