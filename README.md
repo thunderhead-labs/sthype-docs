@@ -1,6 +1,6 @@
-# stHYPE Integration Guide
+# stHYPE Integration
 
-This guide provides information on how to integrate with the `stHYPE` protocol using our smart contracts, indexed api and other relevant resources.
+This repo provides information on how to integrate with the `stHYPE` protocol using our smart contracts, index api and other relevant resources.
 
 ## Smart Contracts
 
@@ -25,6 +25,12 @@ Frontend code examples on how to implement staking and unstaking are available i
 A hosted GraphQL playground for indexed data at [https://index-testnet.stakedhype.fi/graphql](https://index-testnet.stakedhype.fi/graphql).
 
 Please note this is still under development and the data may not be fully accurate or stable until mainnet launch.
+
+## Data API
+
+Data API will provide APR and historical protocol data.
+
+Coming soon. 
 
 ## Community Codes
 
