@@ -9,7 +9,7 @@ For more detailed information on the `stHYPE` integration, please refer to the [
 
 ### Deployed Contract Addresses
 
-Please see [[https://index-testnet.stakedhype.fi/graphql]([https://docs.stakedhype.fi/technical/contract-addresses]
+Refer to the [docs](https://docs.stakedhype.fi/technical/contract-addresses) for latest on testnet.
 
 #### ABIs
 
