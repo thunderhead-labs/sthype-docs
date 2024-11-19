@@ -1,4 +1,4 @@
-# stHYPE Integration
+# stHYPE Integration Guides
 
 ## Smart Contract Integration
 
