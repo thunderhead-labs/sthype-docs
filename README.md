@@ -4,7 +4,7 @@ This repo provides information on how to integrate with the `stHYPE` protocol us
 
 ## Smart Contracts
 
-For more detailed information on the `stHYPE` integration, please refer to the [stHYPE Integration Details](guides/smart-contracts.md).
+For more detailed information on the `stHYPE` integration, please refer to the [Integration Guide](guides).
 
 
 ### Deployed Contract Addresses
