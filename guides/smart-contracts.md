@@ -6,5 +6,6 @@ Welcome to the `stHYPE` integration repository. This project is designed to help
 
 ## Smart Contract Integrations
 
-Staking - see [staking.md](staking.md)
-Unstaking - see [unstaking.md](unstaking.md)
+Staking - see [staking](staking.md)
+
+Unstaking - see [unstaking](unstaking.md)
