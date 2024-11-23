@@ -21,7 +21,7 @@ Frontend code examples on how to implement staking and unstaking are available i
 
 ## Indexer API
 
-A hosted GraphQL playground for indexed data at [https://index.stakedhype.fi/graphql](https://index-testnet.stakedhype.fi/graphql).
+A hosted GraphQL playground for indexed data at [https://index.stakedhype.fi/graphql](https://index.stakedhype.fi/graphql).
 
 Please note this is still under development and the data may not be fully accurate or stable until mainnet launch.
 
