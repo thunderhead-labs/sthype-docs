@@ -5,3 +5,4 @@
 - [staking](staking.md)
 - [unstaking](unstaking.md)
 - [balances](balances.md)
+- [exchange rate](exchange-rate.md)
