@@ -3,7 +3,7 @@ import { waitForTransactionReceipt } from '@wagmi/core'
 import { WaitForTransactionReceiptReturnType } from "viem"
 import { useEffect, useState } from 'react';
 import ABI from "../../abis/overseerV1.json";
-import useAccount from './useAccount';
+import { useAccount } from "wagmi";
 import { config } from "./config"
 
 const useUnstake = (
