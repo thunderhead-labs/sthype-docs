@@ -6,6 +6,12 @@ import ABI from "../../abis/overseerV1.json";
 import useAccount from './useAccount';
 import { config } from "./config"
 
+export type SwapOutputState = {
+  inputAmount: bigint;
+  outputAmount: bigint;
+  outputAmountMinReceived: bigint;
+};
+
 const useStake = (
     inputAmount: bigint,
     communityCode: string = '',
