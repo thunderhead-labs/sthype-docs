@@ -1,48 +1,40 @@
-# stHYPE Integration
+---
+description: The premiere liquid-staking solution for the Hyperliquid network.
+---
 
-This repo provides information on how to integrate with the `stHYPE` protocol using our smart contracts, index api and other relevant resources.
+# Welcome to stHYPE
 
-## Smart Contracts
+<figure><img src=".gitbook/assets/-- (1).png" alt=""><figcaption></figcaption></figure>
 
-For more detailed information on the `stHYPE` integration, please refer to the [Integration Guide](guides).
+{% hint style="info" %}
+Documentation is still a work in progress. Some sections may be incomplete or subject to change as Hyperliquid release final details.
+{% endhint %}
 
+## Liquid Staking
 
-### Deployed Contract Addresses
+### Problem
 
-Refer to the [docs](https://docs.stakedhype.fi/technical/contract-addresses) for latest on testnet.
+Typically, on Proof-of-Stake networks, the network is secured by a group of validators that are in turn secured by economic security. In return for locking these tokens, the stakers receive rewards in proportion to how many tokens they have staked. To maintain economic security, there is usually an unbonding period when trying to unstake tokens. As a result of this structure, traditional stakers have zero access to liquidity or the general DeFi ecosystem. In addition to the systematic problems, traditional staking UX is cumbersome—researching operators, distributing stake, and interacting with multiple systems is a painful process.
 
-#### ABIs
+### Solution
 
-ABIs for the smart contracts are available in the [src/abis](src/abis) folder.
+Liquid staking solves the typical exclusivity of staking, allowing users to earn rewards without sacrificing access to liquidity or usage across DeFi. In addition to these obvious benefits, liquid staking helps users by:
 
-## Code Examples
+* Making the staking process extremely simple—users can stake with stHYPE in < 30 seconds.
+* Compounding rewards as a result of automatic validator rebalancing.
+* Consistency; stHYPE has a large and elite validator set—you don't have to rely on one infrastructure provider.
 
-Frontend code examples on how to implement staking and unstaking are available in the [src/examples](src/examples) folder.
+### Network Effects & Network Benefits
 
-## Indexer API
+Something extremely overlooked about LSTs is their network effects and benefits on the greater DeFi ecosystem. A great case study is stETH on Ethereum, where $7b of stETH is used as collateral across the ecosystem, more than all stablecoin collateral combined.
 
-A hosted GraphQL playground for indexed data at [https://index.stakedhype.fi/graphql](https://index.stakedhype.fi/graphql).
+From the network perspective, LSTs:
 
-Please note this is still under development and the data may not be fully accurate or stable until mainnet launch.
+* Unlock the most significant source of sustainable retail yield
+* Have an elite and reputable validator set securing the network
+* Increase the total amount of funds securing the network
+* Make DeFi amazing
 
-## Data API
+**stHYPE will be the lifeblood of the Hyperliquid DeFi ecosystem.**
 
-Data API will provide APR and historical protocol data.
-
-Coming soon. 
-
-## Community Codes
-
-These will be whitelisted at the smart contract level for approved partners.
-
-These are passed as a param to the staking and unstaking functions in order to track HYPE flow and rewards throughout the ecosystem.
-
-## Additonal Notes
-
-The `stHYPE` protocol is almost complete but some aspects may change before mainnet launch once Hyperliquid reveals their minting schedule.
-
-This guide will be updated to reflect any changes and partners will be notified of any updates when they occur.
-
-## White label solution
-
-Coming soon
+<figure><img src=".gitbook/assets/IMG_4385.png" alt="" width="188"><figcaption></figcaption></figure>
